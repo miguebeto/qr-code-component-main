@@ -1,0 +1,47 @@
+/* Colors */
+body {
+  background-color: #a7d6ec;
+  font-family: "Outfit", sans-serif;
+  font-size: 15px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: hsl(0deg, 0%, 100%);
+  margin: 4rem 3rem;
+  border-radius: 1rem;
+  padding: 14px 10px;
+  min-width: -webkit-fit-content;
+  min-width: -moz-fit-content;
+  min-width: fit-content;
+}
+
+.qr-image {
+  height: 14.5rem;
+  width: 230px;
+  border-radius: 8px;
+  -o-object-fit: contain;
+     object-fit: contain;
+}
+
+.information {
+  font-style: normal;
+  font-weight: 700;
+  padding: 0px 24px;
+  margin: 1rem 0px;
+  font-size: 16px;
+  text-align: center;
+}
+
+.information2 {
+  font-style: normal;
+  font-weight: 400;
+  padding: 0px 24px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5647058824);
+  text-align: center;
+  margin-bottom: 15px;
+}/*# sourceMappingURL=index.css.map */
